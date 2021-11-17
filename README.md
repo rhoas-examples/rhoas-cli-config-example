@@ -1,8 +1,17 @@
 ## RHOAS profile configuration demo
 
-This demo showcases usage of the rhoas cli profile and configuration capabilities
+This demo showcases usage of the rhoas cli profile and configuration capabilities.
+
+## Requirements
+
+1. rhoas cli installed (https://github.com/redhat-developer/app-services-cli)
+2. Red Hat account to login
+3. At least 1 service created using RHOAS CLI or console.redhat.com
 
 ## Setup your current profile
+
+Profile lets you choose what services should be used in the CLI and 
+are also used to generate configuration
 
 ```
 rhoas profile manage
